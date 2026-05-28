@@ -1,0 +1,63 @@
+[
+  {
+    "id": "fpt-is",
+    "role": "Nhân viên Part-time - Triển khai chuyển đổi số toàn quốc",
+    "company": "FPT IS",
+    "duration": "Tháng 11/2025",
+    "details": [
+      "Tham gia hỗ trợ triển khai hệ thống eTHADS cho các đơn vị thuộc Tổng cục Thi hành án dân sự (THADS) trong quá trình chuyển đổi số nghiệp vụ.",
+      "Hỗ trợ thu thập, kiểm tra và chuẩn hóa dữ liệu hồ sơ thi hành án nhằm đảm bảo tính đồng bộ và chính xác trên hệ thống.",
+      "Phối hợp hỗ trợ kỹ thuật, hướng dẫn người dùng sử dụng hệ thống eTHADS và xử lý các vấn đề phát sinh trong quá trình vận hành thực tế."
+    ],
+    "images": [
+      "/assets/images/experience/fpt_trienkhai1.jpg",
+      "/assets/images/experience/fpt_trienkhai2.jpg",
+      "/assets/images/experience/fpt_trienkhai3.jpg"
+    ]
+  },
+  {
+    "id": "tingtong",
+    "role": "Nhân viên MO Part-time",
+    "company": "Công ty TingTong",
+    "duration": "Tháng 5/2025",
+    "details": [
+      "Tư vấn và chốt hợp đồng thuê phòng/căn hộ dịch vụ, mang về doanh thu 85 triệu đồng trong 4 tháng.",
+      "Phân tích nhu cầu khách hàng để đưa ra các gợi ý sản phẩm phù hợp, tăng tỉ lệ chuyển đổi từ khách xem sang khách thuê.",
+      "Sử dụng thành thạo Pancake, có kinh nghiệm làm việc theo OKR, báo cáo tiến độ và check-in công việc định kỳ để đảm bảo hiệu suất và mục tiêu công việc."
+    ],
+    "images": [
+      "/assets/images/experience/tingtong_me.jpg",
+      "/assets/images/experience/tingtong_two.jpg",
+      "/assets/images/experience/tingtong_group.jpg"
+    ]
+  },
+  {
+    "id": "logi-group",
+    "role": "Seller TikTok Shop US",
+    "company": "LOGI GROUP",
+    "duration": "Tháng 1/2025",
+    "details": [
+      "Phân tích trend, nghiên cứu keyword và lựa chọn sản phẩm tiềm năng cho thị trường Mỹ.",
+      "Tối ưu SEO sản phẩm, thiết kế mockup và cải thiện tỉ lệ chuyển đổi gian hàng.",
+      "Quản lý vận hành TikTok Shop, theo dõi hiệu suất bán hàng và triển khai khuyến mãi."
+    ],
+    "images": [
+      "/assets/images/experience/tiktok_shop.jpg"
+    ]
+  },
+  {
+    "id": "shopee",
+    "role": "Vận hành Shopee (Cá nhân)",
+    "company": "Kinh doanh tự do",
+    "duration": "Tháng 9/2024",
+    "details": [
+      "Xây dựng và vận hành shop thời trang từ con số 0, đạt doanh thu 30 triệu đồng trong tháng đầu tiên.",
+      "Theo dõi Shop Health, quản lý tồn kho và tối ưu trải nghiệm khách hàng nhằm duy trì hiệu suất gian hàng."
+    ],
+    "images": [
+      "/assets/images/experience/shopee_dashboard.jpg",
+      "/assets/images/experience/shopee_packages1.jpg",
+      "/assets/images/experience/shopee_packages2.jpg"
+    ]
+  }
+]

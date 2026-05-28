@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MySQL",
+    "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "PHP",
+    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+  },
+  {
+    "name": "C Language",
+    "icon": "https://img.icons8.com/color/48/000000/c-programming.png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+  },
+  {
+    "name": "Use AI ",
+    "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+  },
+  {
+    "name": "Canva",
+    "icon": "https://img.icons8.com/color/48/000000/canva.png"
+  },
+  {
+    "name": "Photoshop",
+    "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop.png"
+  },
+  {
+    "name": "MS Word",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-word-2019.png"
+  },
+  {
+    "name": "MS PowerPoint",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png"
+  },
+  {
+    "name": "MS Excel",
+    "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"
+  },
+  {
+    "name": "Integrity",
+    "icon": "https://img.icons8.com/color/48/000000/shield.png"
+  },
+  {
+    "name": "Teamwork",
+    "icon": "https://img.icons8.com/color/48/000000/conference-call.png"
+  },
+  {
+    "name": "Thuyết phục",
+    "icon": "https://img.icons8.com/color/48/000000/presentation.png"
+  },
+  {
+    "name": "Phản biện",
+    "icon": "https://img.icons8.com/color/48/000000/brain.png"
+  }
+]
