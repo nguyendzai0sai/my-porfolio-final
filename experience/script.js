@@ -66,11 +66,11 @@ document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
         document.title = "Experience | Portfolio Nguyen Duong";
-        $("#favicon").attr("href","/assets/images/avtnguyen1.jpg");
+        $("#favicon").attr("href","../assets/images/avtnguyen1.jpg");
     }
     else {
         document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assets/images/avtnguyen1.jpg");
+        $("#favicon").attr("href","../assets/images/avtnguyen1.jpg");
     }
 });
 
@@ -117,7 +117,14 @@ function setupExperienceClick() {
                 let imagesHTML = "";
                 if (exp.images && exp.images.length > 0) {
                     exp.images.forEach(imgSrc => {
-                        imagesHTML += `<img src="${imgSrc}" alt="${exp.company}" onerror="this.style.display='none'" />`;
+                        let path = imgSrc;
+                        if (path.startsWith('/')) {
+                            path = path.substring(1);
+                        }
+                        if (!path.startsWith('http') && !path.startsWith('../')) {
+                            path = '../' + path;
+                        }
+                        imagesHTML += `<img src="${path}" alt="${exp.company}" onerror="this.style.display='none'" />`;
                     });
                     modalImages.innerHTML = imagesHTML;
                     modalImages.style.display = "grid";
